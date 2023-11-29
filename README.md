@@ -10,9 +10,11 @@ The schematic, gerber files, and BOM are located under main/Code.
 Using the compressed Gerber files you can order the PCB through https://jlcpcb.com/, https://oshpark.com/ or similar PCB Manufacturers.
 
 The reccomended PCB Specifications are:
+
 1.6mm PCB Thickness, ENIG, with tented Via coverings
 
 # Sourcing the components
 All components can be ordered via Digikey minus the MX1720FC chip which will need to come from a donor board.
 I have listed a current BOM of the components with part numbers to be used for ordering components through Digikey.
-Please note that C1 has a duplicate footprint on the PCB if using SMD component vs a through hole capacitor.
+
+Please note that C1 has a duplicate footprint on the PCB if using SMD component versus a through hole capacitor.
