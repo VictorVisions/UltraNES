@@ -7,7 +7,7 @@ The current design is based off of the N64 CFS8120-700010 PCB design.
 The schematic, gerber files, and BOM are located under main/Code.
 
 # Purchasing the PCB
-Using the compressed Gerber files you can order the PCB through [(https://jlcpcb.com/)], [(https://oshpark.com/)] or similar PCB Manufacturers.
+Using the compressed Gerber files you can order the PCB through [https://jlcpcb.com/], [(https://oshpark.com/)] or similar PCB Manufacturers.
 
 The reccomended PCB Specifications are:
 1.6mm PCB Thickness, ENIG, with tented Via coverings
