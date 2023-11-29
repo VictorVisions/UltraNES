@@ -1,7 +1,18 @@
 # UltraNES
-An Open Source -- pcb controller design for use on the --.
-This is a work in progress passion project designed to be used on the -- while using the Everdrive-64 X7 nes core. 
-The current design is based off of the -- CFS8120-700010 PCB design.
+An Open Source NES pcb controller design for use on the Nintendo 64.
+This is a work in progress passion project designed to be used on the Nintendo 64 while using the Everdrive-64 X7 nes core. 
+The current design is based off of the N64 CFS8120-700010 PCB design.
 
-Join the Discord server to participate in the discussion and development of this project.
-https://discord.gg/hYhrwJGe
+# Schematic and Gerber files
+The schematic, gerber files, and BOM are located under main/Code.
+
+# Purchasing the PCB
+Using the compressed Gerber files you can order the PCB through https://jlcpcb.com/, https://oshpark.com/ or similar PCB Manufacturers.
+
+The reccomended PCB Specifications are:
+1.6mm PCB Thickness, ENIG, with tented Via coverings
+
+# Sourcing the components
+All components can be ordered via Digikey minus the MX1720FC chip which will need to come from a donor board.
+I have listed a current BOM of the components with part numbers to be used for ordering components through Digikey.
+Please note that C1 has a duplicate footprint on the PCB if using SMD component vs a through hole capacitor.
