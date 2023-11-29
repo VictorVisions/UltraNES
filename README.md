@@ -7,7 +7,8 @@ The current design is based off of the N64 CFS8120-700010 PCB design.
 The schematic, gerber files, and BOM are located under main/Code.
 
 # Purchasing the PCB
-Using the compressed Gerber files you can order the PCB through https://jlcpcb.com/, https://oshpark.com/ or similar PCB Manufacturers.
+Under the main branch download the file (UltraNES_v2_compressed.zip) and upload it to your preffered PCB manufacturing site such as... 
+https://jlcpcb.com/, https://oshpark.com/ or similar PCB Manufacturers.
 
 The reccomended PCB Specifications are:
 
