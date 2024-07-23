@@ -9,7 +9,7 @@ Under Releases you'll find the latest Design and Build zip files. The Design fol
 
 # Purchasing the PCB
 Under Releases download the latest version of the Build folder and upload the file named "Gerber_Files.zip" to your preffered PCB manufacturing site such as... 
-https://jlcpcb.com/, https://oshpark.com/ or similar PCB Manufacturers.
+[https://jlcpcb.com/](https://jlcpcb.com/), [https://oshpark.com/](https://oshpark.com/) or similar PCB Manufacturers.
 
 The reccomended PCB Specifications are:
 
@@ -17,7 +17,7 @@ The reccomended PCB Specifications are:
 
 
 # Sourcing the components
-All components can be ordered via Digikey minus the CNT-NUS IC (U1), CLK, and the controller cable (J2) which will need to come from a donor board. Alternatively for the cable you can use a controller exstension cord which can be found on Amazon or other silimar online retailers.
+All components can be ordered via Digikey minus the CNT-NUS IC (U1), CLK, and the controller cable (J2) which will need to come from a donor board. Alternatively for the cable you can use a controller exstension cord which can be found on [Amazon](https://www.amazon.com/Packs-Replacement-Extension-Nintendo-Controller/dp/B01NCV8FJC/ref=sr_1_4?crid=1W6HD3YLHTQC4&dib=eyJ2IjoiMSJ9.DaCBQvFRZlrZ1vhm3baKCD04---cV2Be0eJJiHAsIjnvYbG8_lok2_PoBbDA6gNBmYtavxLE-iYZRB2hVzFoujeJMK02BG7d5-734NfjWVQwyknUXfoxuJgD9nVCk6EDhXUIQUQpYp_ucYeBXZlkm8xfv2ZNbxl3iW0-bKeXh9_P4FEutAnWPmetrMdciGAham7pLW-_XMpXO1Yc2yTnFRMHOhbB83hBWMyQa6CEq0M.JbklelSKRIjODuBDei4AK3lx2s0xyNEnMEI4IZmjHCw&dib_tag=se&keywords=n64+controller+cord&qid=1721757917&sprefix=n64+controller+cord%2Caps%2C133&sr=8-4) or other silimar online retailers.
 I have listed a Bill of Materials (BOM) with part numbers to be used for ordering components through Digikey. You can find this under the Build folder labeled "UltraNES_BOM.xlsx".
 
 Please note that C1 has a duplicate footprint on the PCB if using SMD component versus a through hole capacitor. And lastly the J1 connector for the Analog stick is currently not implemented on the PCB so you will notice resistors and the J1 connector on the schematic but not on the PCB.
